@@ -2,10 +2,10 @@ function checkPrime(num){
 let factor = 0;
   for(let i = 0; i<=num ; i++){
      if(num%i===0){
-         count;
+         count++;
      }
   }
-  if(factor<=2){
+  if(factor===2){
      console.log("Prime Number");
   }else{
      console.log("Not a Prime Number");
