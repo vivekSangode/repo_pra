@@ -1,16 +1,20 @@
 {
-  "name": "api_s",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "json-server": "^0.17.1"
-  }
-}
+  3    "name": "repo_pra",
+  4    "version": "1.0.0",
+  5    "description": "",
+  6    "scripts": {
+  7        "build": "echo \"No build specified\" && exit 1",
+  8        "test": "echo \"No test specified\" && exit 1",
+  9        "start": "node index.js"
+  10    },
+  11    "repository": {
+  12        "type": "git",
+  13        "url": "git+https://github.com/vivekSangode/repo_pra.git"
+  14    },
+  15    "author": "",
+  16    "license": "ISC",
+  17    "bugs": {
+  18        "url": "https://github.com/vivekSangode/repo_pra/issues"
+  19    },
+  20    "homepage": "https://github.com/vivekSangode/repo_pra#readme"
+  21}
